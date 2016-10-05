@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,2,0,0,0,0],"price":1000},
+{"id":2,"atypeId":1,"description":"Defense + 1","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Cloth Hat","note":"","params":[0,0,0,1,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"Defense + 3","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth","note":"","params":[0,0,0,3,0,0,0,0],"price":1000},
+{"id":4,"atypeId":1,"description":"Adds 5% evasion rate","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":145,"name":"Dodge Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":1500}
+]

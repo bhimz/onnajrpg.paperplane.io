@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"rafa_battle","characterIndex":0,"characterName":"rafa_walk","classId":1,"equips":[1,0,2,3,0],"faceIndex":0,"faceName":"rafa_smirk","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rafa","nickname":"Rafa","note":"","profile":"A reluctant hero, forced into being the main \nprotagonist of the game."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Empty","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"pb_jeff_battler","characterIndex":0,"characterName":"pb_jeff_walk","classId":2,"equips":[2,0,2,3,0],"faceIndex":0,"faceName":"pb_jeff","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jeff","nickname":"Jeff","note":"","profile":"A weapon shop owner who wants to become a warrior.\nSometimes he post stuffs at Youtube."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
